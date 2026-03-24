@@ -2,3 +2,5 @@ import os
 
 if __name__ == "__main__":
     print("This is a GitHub tutorial.")
+    
+    print("New line")
