@@ -7,3 +7,5 @@ if __name__ == "__main__":
 
     def remote_repo():
         print("liu liu")
+    
+    print("Local message")
