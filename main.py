@@ -9,3 +9,5 @@ if __name__ == "__main__":
         print("liu liu")
     
     print("Local message")
+
+    print("Demo rebase")
